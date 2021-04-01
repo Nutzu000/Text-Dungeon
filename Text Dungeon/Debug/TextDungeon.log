@@ -1,0 +1,7 @@
+﻿  TextDungeon.cpp
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Functions.h(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\rooms.h(441,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\rooms.h(605,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Functions.h(155,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Functions.h(534,27): warning C4018: '<': signed/unsigned mismatch
+  TextDungeon.vcxproj -> C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Debug\TextDungeon.exe

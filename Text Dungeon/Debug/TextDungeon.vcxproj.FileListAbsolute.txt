@@ -1,0 +1,4 @@
+C:\Users\edyna\Desktop\Info\TextDungeon\Debug\TextDungeon.exe
+C:\Users\edyna\Desktop\Info\TextDungeon\Debug\TextDungeon.pdb
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Debug\TextDungeon.exe
+C:\Users\edyna\Desktop\Antal-Cionta Ioan Sorin proiect atestat\Codul Sursa\Debug\TextDungeon.pdb
